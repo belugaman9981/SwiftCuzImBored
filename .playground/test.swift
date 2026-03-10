@@ -10,3 +10,5 @@ var names = [
 
 names.append("Kobe")
 names.append("LeBron")
+
+print(names)
