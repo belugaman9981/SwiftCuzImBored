@@ -3,4 +3,10 @@ import Foundation
 let myName = "Michael"
 let yourName = "Jordan"
 
-myName = yourName
+var names = [
+    myName,
+    yourName
+]
+
+names.append("Kobe")
+names.append("LeBron")
