@@ -8,7 +8,3 @@ var names = [
     yourName
 ]
 
-names.append("Kobe")
-names.append("LeBron")
-
-print(names)
